@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Emmanuel Pellegrin
 title: Data Scientist (student), Senior BI Consultant
-email: git@pellegrin.me
+email: data-scientist@pellegrin.me
 website: www.pellegrin.me
 
 # Social links
@@ -21,12 +21,12 @@ linkedin_username: emmanuel.pellegrin
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Emmanuel and I'm a part-time Data Scientist student and Business Intelligence Consultant. I'As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Emmanuel and I'm a part-time Data Scientist student and Business Intelligence Consultant. As well as data scientist, I also have experience analyzing business intelligence needs, developping all-in-one solutions for clients. I have worked at a number of international companies gaining teamwork and leadership skills. I used to be partner of a startup ( <mark>PIKKO</mark> specialized in data-vizualisation.I've also founded a <mark>wine-tech</mark> startup (MobVino)
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+ 
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in data science and busienss intelligence some of my other interests and hobbies are:
+  Alongside my interests in data science and business intelligence some of my other interests and hobbies are:
    - Kite-surfing
    - Swimming
-   - tasting wine
-   - my family , including my (cat)[images/chachou.jpeg] 
+   - discovering tasting wine
+   - my family, including my (cat)[images/chachou.jpeg] 
 
 # Footer
 footer_show_references: true
